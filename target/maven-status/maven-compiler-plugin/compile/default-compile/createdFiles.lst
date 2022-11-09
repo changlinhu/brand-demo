@@ -1,0 +1,5 @@
+com/changlin/pojo/Brand.class
+com/changlin/mapper/BrandMapper.class
+com/changlin/service/BrandService.class
+com/changlin/util/SqlSessionFactoryUtils.class
+com/changlin/web/SelectAllServlet.class
